@@ -8,10 +8,8 @@ class Duck :
     def display(self):
         pass
 
-    def quack(self):
-        print("All ducks are quacking")
-
     def swim(self):
         print("All duck are swimming")
+
 
 
